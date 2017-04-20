@@ -1,2 +1,2 @@
-# coding-examples-and-practise
+# coding-examples-and-practiCe
 Used for help and future examples
